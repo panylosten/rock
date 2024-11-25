@@ -1,0 +1,32 @@
+{
+  "1732449770418": {
+    "roomId": "1732449770418",
+    "creator": "buni",
+    "creatorChoice": "rock",
+    "betAmount": 0.005,
+    "resolved": false,
+    "joiner": null,
+    "joinerChoice": null,
+    "result": null
+  },
+  "1732449783729": {
+    "roomId": "1732449783729",
+    "creator": "buni",
+    "creatorChoice": "rock",
+    "betAmount": 0.001,
+    "resolved": false,
+    "joiner": null,
+    "joinerChoice": null,
+    "result": null
+  },
+  "1732449809576": {
+    "roomId": "1732449809576",
+    "creator": "buni",
+    "creatorChoice": "rock",
+    "betAmount": 0.001,
+    "resolved": false,
+    "joiner": null,
+    "joinerChoice": null,
+    "result": null
+  }
+}
